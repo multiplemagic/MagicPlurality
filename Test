@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>System Manager</title>
+</head>
+
+<body>
+
+<h1>System Manager</h1>
+<p>Welcome to the plurality system manager app.</p>
+
+<h2>Add System Member</h2>
+
+<input id="name" placeholder="Member name">
+<button onclick="addMember()">Add</button>
+
+<ul id="members"></ul>
+
+<script>
+
+let members = []
+
+function addMember() {
+
+  let name = document.getElementById("name").value
+
+  members.push(name)
+
+  render()
+
+}
+
+function render() {
+
+  let list = document.getElementById("members")
+
+  list.innerHTML = ""
+
+  members.forEach(m => {
+
+    list.innerHTML += `<li>${m}</li>`
+
+  })
+
+}
+
+</script>
+
+</body>
+</html>
