@@ -14,5 +14,5 @@ A website that we made to help systems & other plural people feel seen (such as 
 This website is meant to be HIGHLY customizable and can get confusing which is why we made multiple tutorials for it (**UP IN OUR DISCORD/HELP CHANNEL**)
 It isn't hard to figure out and if you're familiar with Simply Plural or other plural help kits it should be easy for you too understand and use! unfortunately you can not import your system from other apps/websites or anything else you used. You will have to start from scratch.
 
-# Again I have absolutely no coding experience and is basically doing all this completely blind because I don't know what I'm doing. But of course with trials and errors this website will be made!
-# And will always and continue to be welcome to anyone of plurality & singlets alike.
+<h1>Again I have absolutely no coding experience and is basically doing all this completely blind because I don't know what I'm doing. But of course with trials and errors this website will be made!</h1>
+<h1>And will always and continue to be welcome to anyone of plurality & singlets alike.</h1>
